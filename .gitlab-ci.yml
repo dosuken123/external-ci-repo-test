@@ -1,0 +1,5 @@
+job-a:
+  script: echo 'a'
+
+job-b:
+  script: echo 'b'
