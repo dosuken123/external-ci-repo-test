@@ -1,5 +1,5 @@
 job-a:
-  script: echo 'a'
+  script: echo 'ab'
 
 job-b:
   script: echo 'b'
