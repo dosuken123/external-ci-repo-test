@@ -1,5 +1,5 @@
 job-a:
-  script: echo 'abcde'
+  script: echo 'abcdef'
   only:
     - external_pull_request_events
 
