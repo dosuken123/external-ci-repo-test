@@ -1,5 +1,5 @@
 job-a:
-  script: echo 'abc'
+  script: echo 'abcd'
   only:
     - external_pull_request_events
 
