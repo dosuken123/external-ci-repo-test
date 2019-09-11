@@ -1,5 +1,5 @@
 job-a:
-  script: echo 'abcdefg'
+  script: echo 'abcdefgh'
   only:
     - external_pull_requests
 
