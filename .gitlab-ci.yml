@@ -1,7 +1,7 @@
 job-a:
   script: echo 'abcdef'
   only:
-    - external_pull_request_events
+    - external_pull_requests
 
 job-b:
   script: echo 'b'
