@@ -1,5 +1,7 @@
 job-a:
-  script: echo 'a'
+  script: echo 'abcdefghj'
+  only:
+    - external_pull_requests
 
 job-b:
   script: echo 'b'
